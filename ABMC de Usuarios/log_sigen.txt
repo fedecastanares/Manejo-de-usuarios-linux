@@ -1,0 +1,860 @@
+27/10/2014 - 15:33:39 - Usuario  eliminado exitosamente. 
+27/10/2014 - 15:33:46 - Usuario  eliminado exitosamente. 
+27/10/2014 - 15:33:51 - Usuario  eliminado exitosamente. 
+27/10/2014 - 15:33:56 - Usuario  eliminado exitosamente. 
+27/10/2014 - 15:34:03 - Usuario  eliminado exitosamente. 
+27/10/2014 - 15:35:17  -  El grupo: vapae ha sido borrado exitosamente.
+27/10/2014 - 15:36:44  -  El grupo: jorge ha sido borrado exitosamente.
+27/10/2014 - 15:37:45  -  El grupo: hernan ha sido borrado exitosamente.
+27/10/2014 - 15:37:57 - Grupo: sandro modifico su nombre a Profe.\n
+27/10/2014 - 15:38:09  -  El grupo: Profe ha sido borrado exitosamente.
+27/10/2014-16:28:01-Usuario: Fedevpe creado exitosamente.
+28/10/2014-17:53:29-Usuario: elchuki creado exitosamente.
+28/10/2014-17:57:00-Usuario: feton creado exitosamente.
+28/10/2014-17:58:21-Se agrego al grupo: elchuki el usuario: feton
+28/10/2014-17:58:21-El usuario: feton se ha agregado correctamente al grupo: elchuki
+28/10/2014-17:59:29-Usuario feton eliminado exitosamente. 
+28/10/2014-18:00:21-Usuario feton modifico su nombre a fetitoloco.
+28/102014-18:00:57-Usuario fetitoloco modifico su nombre a fetitoloco.
+28/10/2014-18:02:34-Se agrego al grupo: elchuki el usuario: fetitoloco
+28/10/2014-18:03:24-Se borro del grupo: feton el usuario: Fedevpe
+28/10/2014-18:03:55-Se borro del grupo: elchuki el usuario: fetitoloco
+28/10/2014-18:05:34-Grupo asadera creado exitosamente.
+28/10/2014-18:05:49-El grupo: elchuki ha sido borrado exitosamente.
+28/10/2014-18:06:31-Grupo: nogroup modifico su nombre a hornito.
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:40-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:41-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:42-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:43-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:44-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:45-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:46-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:47-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:48-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:49-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:50-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:51-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:52-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:53-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:54-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:55-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:56-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:57-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:58-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:26:59-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:00-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:01-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:02-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:03-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+28/10/2014-19:27:04-Usuario: 227/10/2014 1 creado exitosamente mediante lista. 
+03/11/2014-21:06:40-Usuario  eliminado exitosamente. 
+17/11/2014-17:58:26-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-17:58:26-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-17:58:26-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-17:58:26-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:00:40-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:00:40-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:00:40-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:00:40-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:09:46-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:09:46-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:09:46-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:09:46-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:10:27-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:10:27-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:10:27-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:10:27-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:12:43-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:12:43-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:12:43-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:12:43-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:13:12-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:13:12-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:13:12-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:13:12-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:16:51-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:16:51-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:16:51-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:16:51-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:18:02-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:18:02-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:18:02-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:18:02-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:24:04-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:24:04-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:24:04-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:24:04-Usuario:  creado exitosamente mediante lista. 
+17/11/2014-18:30:04-Usuario: JJuan1 creado exitosamente mediante lista. 
+17/11/2014-18:30:09-Usuario: JJorge1 creado exitosamente mediante lista. 
+17/11/2014-18:30:14-Usuario: TTito1 creado exitosamente mediante lista. 
+17/11/2014-18:30:19-Usuario: SSandro1 creado exitosamente mediante lista. 
+17/11/2014-18:31:22-Usuario: JPablo1 creado exitosamente mediante lista. 
+17/11/2014-18:31:23-Usuario: JPrada1 creado exitosamente mediante lista. 
+17/11/2014-18:31:23-Usuario: Tel bambino1 creado exitosamente mediante lista. 
+17/11/2014-18:31:24-Usuario: SAmaral1 creado exitosamente mediante lista. 
+17/11/2014-18:32:08-Usuario: JPablo1 creado exitosamente mediante lista. 
+17/11/2014-18:32:09-Usuario: JPrada1 creado exitosamente mediante lista. 
+17/11/2014-18:32:10-Usuario: Tel bambino1 creado exitosamente mediante lista. 
+17/11/2014-18:32:10-Usuario: SAmaral1 creado exitosamente mediante lista. 
+17/11/2014-18:32:35-Usuario: JPablo1 creado exitosamente mediante lista. 
+17/11/2014-18:32:35-Usuario: JPrada1 creado exitosamente mediante lista. 
+17/11/2014-18:32:36-Usuario: Tel bambino1 creado exitosamente mediante lista. 
+17/11/2014-18:32:36-Usuario: SAmaral1 creado exitosamente mediante lista. 
+17/11/2014-18:33:23-Usuario: JPablo1 creado exitosamente mediante lista. 
+17/11/2014-18:33:24-Usuario: JPrada1 creado exitosamente mediante lista. 
+17/11/2014-18:33:24-Usuario: Tel bambino1 creado exitosamente mediante lista. 
+17/11/2014-18:33:25-Usuario: SAmaral1 creado exitosamente mediante lista. 
+17/11/2014-18:33:32-Usuario: JPablo1 creado exitosamente mediante lista. 
+17/11/2014-18:33:33-Usuario: JPrada1 creado exitosamente mediante lista. 
+17/11/2014-18:33:33-Usuario: Tel bambino1 creado exitosamente mediante lista. 
+17/11/2014-18:33:34-Usuario: SAmaral1 creado exitosamente mediante lista. 
+17/11/2014-18:58:45-Usuario: JPablo1 creado exitosamente mediante lista. 
+17/11/2014-18:58:46-Usuario: JPrada1 creado exitosamente mediante lista. 
+17/11/2014-18:58:47-Usuario: SAmaral1 creado exitosamente mediante lista. 
+17/11/2014-18:59:01-Se quiso agregar un usuario con cedula :1231457 pero ya existia.
+17/11/2014-18:59:01-Se quiso agregar un usuario con cedula :5454789 pero ya existia.
+17/11/2014-18:59:02-Se quiso agregar un usuario con cedula :9876541 pero ya existia.
+17/11/2014-18:59:25-Se quiso agregar un usuario con cedula :1231457 pero ya existia.
+17/11/2014-18:59:25-Se quiso agregar un usuario con cedula :5454789 pero ya existia.
+17/11/2014-18:59:25-Se quiso agregar un usuario con cedula :9876541 pero ya existia.
+17/11/2014-19:00:02-Se quiso agregar un usuario con cedula :1231457 pero ya existia.
+17/11/2014-19:00:03-Se quiso agregar un usuario con cedula :5454789 pero ya existia.
+17/11/2014-19:00:04-Se quiso agregar un usuario con cedula :9876541 pero ya existia.
+17/11/2014-19:03:50-Usuario SAmaral eliminado exitosamente. 
+17/11/2014-19:03:54-Usuario SAmaral eliminado exitosamente. 
+17/11/2014-19:03:59-Usuario SAmaral eliminado exitosamente. 
+17/11/2014-19:04:10-Usuario: JPablo1 creado exitosamente mediante lista. 
+17/11/2014-19:04:11-Usuario: JPrada1 creado exitosamente mediante lista. 
+17/11/2014-19:04:12-Usuario: SAmaral1 creado exitosamente mediante lista. 
+17/11/2014-19:12:24-Usuario: JPablo creado exitosamente mediante lista. 
+17/11/2014-19:12:25-Usuario: JPrada creado exitosamente mediante lista. 
+17/11/2014-19:12:26-Usuario: SAmaral creado exitosamente mediante lista. 
+17/11/2014-19:12:45-Se quiso agregar un usuario con cedula :1131132 pero ya existia.
+17/11/2014-19:12:46-Se quiso agregar un usuario con cedula :2232233 pero ya existia.
+17/11/2014-19:12:47-Se quiso agregar un usuario con cedula :5535534 pero ya existia.
+17/11/2014-19:16:21-Usuario: JPablo creado exitosamente mediante lista. 
+17/11/2014-19:16:22-Usuario: JPrada creado exitosamente mediante lista. 
+17/11/2014-19:16:23-Usuario: SAmaral creado exitosamente mediante lista. 
+17/11/2014-19:16:30-Se quiso agregar un usuario con cedula :1231132 pero ya existia.
+17/11/2014-19:16:31-Se quiso agregar un usuario con cedula :2332233 pero ya existia.
+17/11/2014-19:16:32-Se quiso agregar un usuario con cedula :5235534 pero ya existia.
+17/11/2014-19:16:51-Usuario: JPablo creado exitosamente mediante lista. 
+17/11/2014-19:16:52-Usuario: JPrada creado exitosamente mediante lista. 
+17/11/2014-19:16:53-Usuario: SAmaral creado exitosamente mediante lista. 
+17/11/2014-19:23:13-Se quiso agregar un usuario con cedula :2231132 pero ya existia.
+17/11/2014-19:23:14-Se quiso agregar un usuario con cedula :3332233 pero ya existia.
+17/11/2014-19:23:15-Se quiso agregar un usuario con cedula :2235534 pero ya existia.
+23/11/2014-15:19:59-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:04-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:08-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:13-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:18-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:23-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:28-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:33-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:37-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:42-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:47-Usuario  eliminado exitosamente. 
+23/11/2014-15:20:53-Usuario  eliminado exitosamente. 
+10/12/2014-21:12:40-Usuario: JPablo1 creado exitosamente mediante lista. 
+10/12/2014-21:12:41-Usuario: JPrada1 creado exitosamente mediante lista. 
+10/12/2014-21:12:42-Usuario: SAmaral1 creado exitosamente mediante lista. 
+10/12/2014-21:13:08-Se quiso agregar un usuario con cedula :5554443 pero ya existia.
+10/12/2014-21:13:10-Se quiso agregar un usuario con cedula :8887776 pero ya existia.
+10/12/2014-21:13:11-Usuario: SAmaral creado exitosamente mediante lista. 
+10/12/2014-21:14:04-Se quiso agregar un usuario con cedula :5554443 pero ya existia.
+10/12/2014-21:14:05-Se quiso agregar un usuario con cedula :8887776 pero ya existia.
+10/12/2014-21:14:06-Usuario: SAmaral creado exitosamente mediante lista. 
+10/12/2014-21:17:50-Usuario: JPablo creado exitosamente mediante lista. 
+10/12/2014-21:17:51-Usuario: JPrada creado exitosamente mediante lista. 
+10/12/2014-21:17:52-Usuario: SAmaral creado exitosamente mediante lista. 
+10/12/2014-21:17:58-Se quiso agregar un usuario con cedula :2231132 pero ya existia.
+10/12/2014-21:17:59-Se quiso agregar un usuario con cedula :3332233 pero ya existia.
+10/12/2014-21:18:00-Se quiso agregar un usuario con cedula :2235534 pero ya existia.
+10/12/2014-21:18:43-Se quiso agregar un usuario con cedula :2231132 pero ya existia.
+10/12/2014-21:18:44-Se quiso agregar un usuario con cedula :3332233 pero ya existia.
+10/12/2014-21:18:45-Se quiso agregar un usuario con cedula :2235534 pero ya existia.
+10/12/2014-21:18:54-Se quiso agregar un usuario con cedula :2231132 pero ya existia.
+10/12/2014-21:18:55-Se quiso agregar un usuario con cedula :3332233 pero ya existia.
+10/12/2014-21:18:56-Se quiso agregar un usuario con cedula :2235534 pero ya existia.
+10/12/2014-21:19:21-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:19:26-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:19:30-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:19:36-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:19:41-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:19:49-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:19:54-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:19:59-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:22:14-Usuario: JPablo1 creado exitosamente mediante lista. 
+10/12/2014-21:22:15-Usuario: JPrada1 creado exitosamente mediante lista. 
+10/12/2014-21:22:16-Usuario: SAmaral1 creado exitosamente mediante lista. 
+10/12/2014-21:23:49-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:23:54-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:23:59-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:24:18-Usuario: JPablo1 creado exitosamente mediante lista. 
+10/12/2014-21:24:19-Usuario: JPrada1 creado exitosamente mediante lista. 
+10/12/2014-21:24:20-Usuario: SAmaral1 creado exitosamente mediante lista. 
+10/12/2014-21:24:44-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:24:49-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:24:53-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:25:03-Usuario: JPablo1 creado exitosamente mediante lista. 
+10/12/2014-21:25:04-Usuario: JPrada1 creado exitosamente mediante lista. 
+10/12/2014-21:25:05-Usuario: SAmaral1 creado exitosamente mediante lista. 
+10/12/2014-21:25:56-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:26:01-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:26:06-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:26:14-Usuario: JPablo1 creado exitosamente mediante lista. 
+10/12/2014-21:26:16-Usuario: JPrada1 creado exitosamente mediante lista. 
+10/12/2014-21:26:17-Usuario: SAmaral1 creado exitosamente mediante lista. 
+10/12/2014-21:28:13-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:28:18-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:28:22-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:28:34-Usuario: JPablo1 creado exitosamente mediante lista. 
+10/12/2014-21:28:35-Usuario: JPrada1 creado exitosamente mediante lista. 
+10/12/2014-21:28:36-Usuario: SAmaral1 creado exitosamente mediante lista. 
+10/12/2014-21:31:30-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:31:35-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:31:39-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:31:58-Usuario: NDeOliveira1 creado exitosamente mediante lista. 
+10/12/2014-21:32:12-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:32:21-Usuario: NDeOliveira1 creado exitosamente mediante lista. 
+10/12/2014-21:34:22-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:34:31-Usuario: JPablo1 creado exitosamente mediante lista. 
+10/12/2014-21:34:32-Usuario: JPrada1 creado exitosamente mediante lista. 
+10/12/2014-21:34:33-Usuario: SAmaral1 creado exitosamente mediante lista. 
+10/12/2014-21:36:58-Se quiso agregar un usuario con cedula :2231132 pero ya existia.
+10/12/2014-21:36:59-Se quiso agregar un usuario con cedula :3332233 pero ya existia.
+10/12/2014-21:37:00-Se quiso agregar un usuario con cedula :2235534 pero ya existia.
+10/12/2014-21:38:15-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:38:19-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:38:25-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:38:42-Usuario: JPablo1 creado exitosamente mediante lista. 
+10/12/2014-21:38:44-Usuario: JPrada1 creado exitosamente mediante lista. 
+10/12/2014-21:38:46-Usuario: SAmaral1 creado exitosamente mediante lista. 
+10/12/2014-21:41:20-Se quiso agregar un usuario con cedula :2231132 pero ya existia.
+10/12/2014-21:41:21-Se quiso agregar un usuario con cedula :3332233 pero ya existia.
+10/12/2014-21:41:22-Se quiso agregar un usuario con cedula :2235534 pero ya existia.
+10/12/2014-21:41:31-Se quiso agregar un usuario con cedula :2231132 pero ya existia.
+10/12/2014-21:41:32-Se quiso agregar un usuario con cedula :3332233 pero ya existia.
+10/12/2014-21:41:33-Se quiso agregar un usuario con cedula :2235534 pero ya existia.
+10/12/2014-21:44:45-Se quiso agregar un usuario con cedula :2231132 pero ya existia.
+10/12/2014-21:44:46-Se quiso agregar un usuario con cedula :3332233 pero ya existia.
+10/12/2014-21:44:48-Usuario: Telbambino1 creado exitosamente mediante lista. 
+10/12/2014-21:44:48-Se quiso agregar un usuario con cedula :2235534 pero ya existia.
+10/12/2014-21:44:50-Usuario: NDeOliveira1 creado exitosamente mediante lista. 
+10/12/2014-21:45:17-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:46:59-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:47:04-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:47:09-Usuario NDeOliveira eliminado exitosamente. 
+10/12/2014-21:47:14-Usuario NDeOliveira eliminado exitosamente. 
